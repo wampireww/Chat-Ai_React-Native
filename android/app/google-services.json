@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "53045486547",
+    "firebase_url": "https://androidaichat-b877f-default-rtdb.firebaseio.com",
+    "project_id": "androidaichat-b877f",
+    "storage_bucket": "androidaichat-b877f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53045486547:android:3fae661f8ac9e1a6090526",
+        "android_client_info": {
+          "package_name": "com.chataiandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53045486547-f2lkg6mf04fkse0ner5v92kpgirrakcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chataiandroid",
+            "certificate_hash": "64ea10562bd9c3e64fe03fd4d6a3f72eb38c8055"
+          }
+        },
+        {
+          "client_id": "53045486547-0phr20sd5n0n7btkamd5b18nsek3evvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5-TOHTpCvkh2H3GrTruPDKYEM4RTEryM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53045486547-0phr20sd5n0n7btkamd5b18nsek3evvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
